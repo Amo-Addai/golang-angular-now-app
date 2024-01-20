@@ -1,4 +1,4 @@
-module github.com/raliqala/golang-fibre-boilerplate
+module github.com/Amo-Addai/golang-angular-now-app/golang-fiber-api
 
 go 1.17
 

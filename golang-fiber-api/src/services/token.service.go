@@ -5,11 +5,11 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/raliqala/golang-fibre-boilerplate/src/config"
-	"github.com/raliqala/golang-fibre-boilerplate/src/database"
-	"github.com/raliqala/golang-fibre-boilerplate/src/helpers"
-	"github.com/raliqala/golang-fibre-boilerplate/src/models"
-	"github.com/raliqala/golang-fibre-boilerplate/src/utils"
+	"github.com/Amo-Addai/golang-angular-now-app/golang-fiber-api/src/config"
+	"github.com/Amo-Addai/golang-angular-now-app/golang-fiber-api/src/database"
+	"github.com/Amo-Addai/golang-angular-now-app/golang-fiber-api/src/helpers"
+	"github.com/Amo-Addai/golang-angular-now-app/golang-fiber-api/src/models"
+	"github.com/Amo-Addai/golang-angular-now-app/golang-fiber-api/src/utils"
 
 	"github.com/dgrijalva/jwt-go"
 	"github.com/gofiber/fiber/v2"

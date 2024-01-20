@@ -3,9 +3,9 @@ package main
 import (
 	"github.com/gofiber/fiber/v2"
 	"github.com/gofiber/fiber/v2/middleware/cors"
-	"github.com/raliqala/golang-fibre-boilerplate/src/config"
-	"github.com/raliqala/golang-fibre-boilerplate/src/database"
-	"github.com/raliqala/golang-fibre-boilerplate/src/routes"
+	"github.com/Amo-Addai/golang-angular-now-app/golang-fiber-api/src/config"
+	"github.com/Amo-Addai/golang-angular-now-app/golang-fiber-api/src/database"
+	"github.com/Amo-Addai/golang-angular-now-app/golang-fiber-api/src/routes"
 )
 
 func main() {

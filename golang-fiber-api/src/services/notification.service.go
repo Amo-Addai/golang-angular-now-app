@@ -4,8 +4,8 @@ import (
 	"log"
 
 	"github.com/gobuffalo/plush"
-	"github.com/raliqala/golang-fibre-boilerplate/src/config"
-	"github.com/raliqala/golang-fibre-boilerplate/src/utils"
+	"github.com/Amo-Addai/golang-angular-now-app/golang-fiber-api/src/config"
+	"github.com/Amo-Addai/golang-angular-now-app/golang-fiber-api/src/utils"
 )
 
 func EmailVerification(emailValues utils.EmailVerification) string {

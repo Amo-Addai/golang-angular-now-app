@@ -6,7 +6,7 @@ import (
 	"strings"
 
 	"github.com/gofiber/fiber/v2"
-	"github.com/raliqala/golang-fibre-boilerplate/src/utils"
+	"github.com/Amo-Addai/golang-angular-now-app/golang-fiber-api/src/utils"
 )
 
 func Unfold(data string) *utils.Success {

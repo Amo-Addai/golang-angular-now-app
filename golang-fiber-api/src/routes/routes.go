@@ -3,11 +3,11 @@ package routes
 import (
 	"github.com/gofiber/fiber/v2"
 	"github.com/gofiber/fiber/v2/middleware/logger"
-	"github.com/raliqala/golang-fibre-boilerplate/src/middleware"
-	"github.com/raliqala/golang-fibre-boilerplate/src/routes/auth"
-	"github.com/raliqala/golang-fibre-boilerplate/src/routes/profile"
-	"github.com/raliqala/golang-fibre-boilerplate/src/routes/verification"
-	"github.com/raliqala/golang-fibre-boilerplate/src/routes/welcome"
+	"github.com/Amo-Addai/golang-angular-now-app/golang-fiber-api/src/middleware"
+	"github.com/Amo-Addai/golang-angular-now-app/golang-fiber-api/src/routes/auth"
+	"github.com/Amo-Addai/golang-angular-now-app/golang-fiber-api/src/routes/profile"
+	"github.com/Amo-Addai/golang-angular-now-app/golang-fiber-api/src/routes/verification"
+	"github.com/Amo-Addai/golang-angular-now-app/golang-fiber-api/src/routes/welcome"
 )
 
 func RouteSetup(app *fiber.App) {

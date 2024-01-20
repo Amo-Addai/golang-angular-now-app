@@ -7,9 +7,9 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/raliqala/golang-fibre-boilerplate/src/config"
-	"github.com/raliqala/golang-fibre-boilerplate/src/models"
-	"github.com/raliqala/golang-fibre-boilerplate/src/utils"
+	"github.com/Amo-Addai/golang-angular-now-app/golang-fiber-api/src/config"
+	"github.com/Amo-Addai/golang-angular-now-app/golang-fiber-api/src/models"
+	"github.com/Amo-Addai/golang-angular-now-app/golang-fiber-api/src/utils"
 	"go.mongodb.org/mongo-driver/mongo"
 	"go.mongodb.org/mongo-driver/mongo/options"
 	"go.mongodb.org/mongo-driver/mongo/readpref"

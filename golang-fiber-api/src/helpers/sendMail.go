@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/raliqala/golang-fibre-boilerplate/src/config"
+	"github.com/Amo-Addai/golang-angular-now-app/golang-fiber-api/src/config"
 	mail "github.com/xhit/go-simple-mail/v2"
 )
 
